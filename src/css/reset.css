@@ -1,0 +1,18 @@
+
+/* 
+* = pega para todas as divs da pagina (h1, head, body, etc)
+*/
+.titulo{
+    margin:0;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: aqua;
+    margin: 30px;
+}
+
+ul{
+    list-style: none;
+}
